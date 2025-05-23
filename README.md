@@ -9,8 +9,8 @@
 - [746. Min Cost Climbing Stairs](https://leetcode.com/problems/min-cost-climbing-stairs/)
 
 #### 2. Kadane’s Algorithm
-**Description**: Finding the maximum sum subarray in a one-dimensional array.  
-**LeetCode Problems**:
+****Description**: Finding the maximum sum subarray in a one-dimensional array.  
+****LeetCode Problems**:
 - [53. Maximum Subarray](https://leetcode.com/problems/maximum-subarray/)
 - [918. Maximum Sum Circular Subarray](https://leetcode.com/problems/maximum-sum-circular-subarray/)
 - [152. Maximum Product Subarray](https://leetcode.com/problems/maximum-product-subarray/)
