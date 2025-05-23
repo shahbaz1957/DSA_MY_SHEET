@@ -60,7 +60,7 @@
 - [698. Partition to K Equal Sum Subsets](https://leetcode.com/problems/partition-to-k-equal-sum-subsets/)
 
 #### 10. String Partition
-Description: Partitioning a string into valid substrings based on certain conditions.  
+  
 
 - [139. Word Break](https://leetcode.com/problems/word-break/)
 - [140. Word Break II](https://leetcode.com/problems/word-break-ii/)
