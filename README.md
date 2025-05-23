@@ -113,7 +113,7 @@
 - [698. Partition to K Equal Sum Subsets](https://leetcode.com/problems/partition-to-k-equal-sum-subsets/)
 - [847. Shortest Path Visiting All Nodes](https://leetcode.com/problems/shortest-path-visiting-all-nodes/)
 - [1125. Smallest Sufficient Team](https://leetcode.com/problems/smallest-sufficient-team/)
-- [Travelling Salesman Problem (TSP)](https://cp-algorithms.com/graph/hamiltonian_path.html) – Classic example of Bitmask + DP to find the minimum cost Hamiltonian cycle.
+- [Travelling Salesman Problem (TSP)](https://cp-algorithms.com/graph/hamiltonian_path.html) 
 
 #### 19. Probability DP
 
