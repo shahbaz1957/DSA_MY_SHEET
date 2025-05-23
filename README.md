@@ -1,7 +1,7 @@
-###  Dynamic Programming Patterns
+##  Dynamic Programming Patterns
 
 
-#### 1. Fibonacci Sequence
+### 1. Fibonacci Sequence
 <small>Description: Finding the maximum sum subarray in a one-dimensional array.</small>  
  
 - [70. Climbing Stairs](https://leetcode.com/problems/climbing-stairs/)
