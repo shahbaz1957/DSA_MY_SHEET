@@ -67,8 +67,6 @@
 - [131. Palindrome Partitioning](https://leetcode.com/problems/palindrome-partitioning/)
 
 #### 11. Catalan Numbers
- 
-
 - [96. Unique Binary Search Trees](https://leetcode.com/problems/unique-binary-search-trees/)
 - [95. Unique Binary Search Trees II](https://leetcode.com/problems/unique-binary-search-trees-ii/)
 - [132. Palindrome Partitioning II](https://leetcode.com/problems/palindrome-partitioning-ii/)
