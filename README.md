@@ -2,7 +2,8 @@
 
 
 #### 1. Fibonacci Sequence
-Description: Problems where the solution depends on the sum of previous two computations.  
+<small>Description: Finding the maximum sum subarray in a one-dimensional array.</small>  
+ 
 - [70. Climbing Stairs](https://leetcode.com/problems/climbing-stairs/)
 - [509. Fibonacci Number](https://leetcode.com/problems/fibonacci-number/)
 - [746. Min Cost Climbing Stairs](https://leetcode.com/problems/min-cost-climbing-stairs/)
